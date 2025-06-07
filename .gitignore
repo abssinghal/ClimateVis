@@ -1,0 +1,11 @@
+# Ignore all env files
+*.env
+
+# Optional: don’t ignore example files
+!*.env.example
+
+# Node modules
+node_modules/
+
+# VS Code workspace
+.vscode/
